@@ -1,7 +1,7 @@
 docker-mongo
 ============
 
-Dockerfile to build mongo -> Docker Index trusted builds
+Dockerfile to build mongo
 
 ```
 FROM ubuntu:12.04
